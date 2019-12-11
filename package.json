@@ -6,6 +6,9 @@
     "type": "git",
     "url": "https://github.com/jpedrosoares/dashboard-terminal.git"
   },
+  "scripts": {
+    "start": "node src/index.js"
+  },
   "author": "João Pedro Soares",
   "license": "MIT",
   "devDependencies": {
